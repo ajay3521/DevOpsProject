@@ -7,9 +7,9 @@ namespace SampleDevopsProject
 {
     [TestClass]
     public class SampleTestClass
-    {
+    {   
         [TestMethod]
-        public void clickLinkandVerifyTitle()
+        static void Main(String[] ARGS)
         {
 
             
